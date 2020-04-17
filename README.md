@@ -29,4 +29,8 @@ Contact Info:
 
 If any questions or issues come up, I can be reached at Ricardoruss@live.com. 
 
+
+Screenshot of finished application:
+assets\images\Refactoring.png
+
 Thanks for reading!
